@@ -32,3 +32,69 @@
 .post-area a:hover {
   color: #0D0017;
 }
+
+.underline-bottom {
+    width: 60px;
+    background-color: #fadf1d;
+    height: 3px;
+    display: block;
+    margin: 20px auto;
+}
+
+#slider .next-event-caption {
+    color: #FFF;
+    font-size: 20px !important;
+    letter-spacing: 0.05em !important;
+    margin-bottom: 20px;
+}
+
+#slider ul.next-event-list {
+    font-size: 12px !important;
+}
+
+#slider ul.next-event-list li {
+    display: inline-block;
+    color: #FFF;
+    letter-spacing: 0.05em;
+    border-right: 1px solid #FFF;
+    padding-right: 25px;
+    padding-left: 25px;
+    margin-left: -6px;
+}
+
+#slider ul.next-event-list li a {
+    color: white !important;
+}
+
+#slider ul.next-event-list li a:hover {
+    color: yellow !important;
+}
+
+.discover-more {
+    margin-top: 20px;
+    background-color: #1f1f1f;
+    color: white;
+    text-transform: uppercase;
+    font-size: 18px;
+    padding: 14px 0px;
+    width: 260px;
+    display: inline-block;
+    letter-spacing: 0.1em;
+    font-weight: 500;
+    text-align: center;
+    border-radius: 30px;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+
+.discover-more a {
+    color: white !important;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#service .fa-stack {
+    height: 1em !important;
+}

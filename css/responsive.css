@@ -171,13 +171,9 @@ px      68    160    252    */
   p {
     font-size: 13px;
   }
-  header .navbar-default .navbar-toggle {
-    margin-top: 20px;
-    margin-bottom: 20px;
-  }
   #slider {
-    padding-top: 90px;
-    padding-bottom: 100px;
+    padding-top: 30px;
+    padding-bottom: 60px;
   }
   #slider .block {
     padding-left: 0px;
@@ -204,9 +200,6 @@ px      68    160    252    */
   /*--
 	service Start 
 --*/
-  #service {
-    padding-top: 100px;
-  }
   #service .thumbnail {
     padding-bottom: 70px;
   }
