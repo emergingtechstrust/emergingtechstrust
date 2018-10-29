@@ -98,3 +98,176 @@
 #service .fa-stack {
     height: 1em !important;
 }
+
+#about aside {
+    width: 20%;
+    float: left;
+    background-color: #F1F1F1;
+    text-transform: initial;
+    padding: 30px 0px 5px;
+    margin-top: 55px;
+    margin-bottom: 55px;
+}
+
+#about ul {
+    font-size: 16px;
+    list-style: none;
+    font-family: "Work Sans", sans-serif;
+}
+
+#about aside ol {
+    padding: 0px 30px;
+    list-style: none;
+}
+
+#about aside ol li, #about aside ol li ul li {
+    position: relative;
+    padding: 10px 0px;
+    margin-bottom: 5px;
+}
+
+#about aside ol li a {
+    color: #1F1F1F;
+    font-weight: 500;
+    font-size: 18px;
+    opacity: 0.5;
+    text-decoration: none;
+    -webkit-transition: all 0.1s ease-in-out;
+    -moz-transition: all 0.1s ease-in-out;
+    -o-transition: all 0.1s ease-in-out;
+    -ms-transition: all 0.1s ease-in-out;
+    transition: all 0.1s ease-in-out;
+}
+
+#about aside ol li ul {
+    margin-left: 25px;
+    margin-top: 11px;
+    width: 142px;
+    font-size: 18px;
+    list-style: none;
+}
+
+#about aside ol li ul li a {
+    color: #1F1F1F;
+    opacity: 0.5;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+.sticky {
+    position: sticky;
+    top: 55px;
+    display: block;
+}
+
+#about #about-right {
+    width: 80%;
+    float: left;
+    padding: 15px 0px 55px 30px;
+    border-bottom: 1px solid #F1F1F1;
+    font-family: "Work Sans", sans-serif;
+}
+
+#about #about-right section {
+    padding-bottom: 40px;
+}
+
+#about #about-right h2 {
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 34px;
+    letter-spacing: 0.05em;
+}
+
+#about #about-right .underline-bottom {
+    width: 50px;
+    background-color: #ffffff;
+    height: 3px;
+    display: block;
+    margin: 10px 0px 12px;
+    background-color: #fadf1d!important;
+}
+
+#about #about-right #mission {
+    padding: 30px 0px 0px !important;
+}
+
+#about h3 {
+    font-size: 22px;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+
+#about #about-right p {
+    line-height: 25px;
+    font-size: 16px;
+}
+
+#about #about-right strong {
+    font-weight: 600;
+}
+
+#about #about-right a {
+    color: #1F1F1F;
+    text-decoration: underline;
+}
+
+#about #about-right article {
+    padding: 40px 0px 0px;
+}
+
+#about .profile-block {
+    padding: 20px 0px 10px;
+    text-align: center;
+    width: 100%;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+
+#about img {
+    width: 180px;
+    height: auto;
+    border-radius: 500px;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: bottom;
+}
+
+#about .pname {
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-size: 16px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+#about .profile-block ul li a {
+    text-decoration: none!important;
+    -webkit-transition: all 0.2s ease-in-out;
+    -moz-transition: all 0.2s ease-in-out;
+    -o-transition: all 0.2s ease-in-out;
+    -ms-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+
+#about #projects a {
+    text-decoration: underline !important;
+}
+
+
+
+
+
+
+
+
+
+
+

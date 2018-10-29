@@ -391,3 +391,39 @@ px      68    160    252    344    436    */
 	Overrides styles for devices with a 
 	device-pixel-ratio of 2+, such as iPhone 4.
 -----------------------------------------------    */
+
+/*About page media queries*/
+@media (max-width: 767px) {
+  #about aside {
+    background-color: #f1f1f1;
+    margin-top: 30px;
+    margin-bottom: 0;
+    width: 100%;
+    display: block;
+    padding: 15px;
+  }
+
+  #about aside ol {
+    text-align: center;
+    padding: 0 30px;
+    list-style: none;
+  }
+
+  .sticky {
+    top: 0;
+    z-index: 2000;
+  }
+
+  #about aside ol li {
+    position: inherit;
+    padding: 10px;
+    margin-bottom: 0;
+    display: inline-block;
+    margin-right: 0;
+  }
+
+  #about aside ol li ul {
+    display: none;
+  }
+}
+
