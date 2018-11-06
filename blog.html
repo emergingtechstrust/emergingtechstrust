@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog
-permalink: /blog/
+permalink: /blogs/
 ---
 <!-- Slider Start -->
 <section id="global-header">
@@ -16,13 +16,14 @@ permalink: /blog/
     </div>
   </div>
 </section>
-<center><h1>Coming Soon ...</h1></center>
-<!--{% for post in site.posts %}-->
-<!--<div class="post-area">-->
-  <!--<a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a>-->
-  <!--<p class="post-date">{{ post.date | date_to_long_string }}</p>-->
-  <!--<p>-->
-    <!--{{ post.content | strip_html | truncatewords: 50 }}-->
-  <!--</p>-->
-<!--</div>-->
-<!--{% endfor %}-->
+
+<!-- Blogs list -->
+{% for post in site.posts %}
+<div class="post-area">
+  <a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a>
+  <p class="post-date">{{ post.date | date_to_long_string }}</p>
+  <p>
+    {{ post.content | strip_html | truncatewords: 50 }}
+  </p>
+</div>
+{% endfor %}

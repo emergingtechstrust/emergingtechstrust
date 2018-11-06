@@ -73,11 +73,10 @@
 .discover-more {
     margin-top: 20px;
     background-color: #1f1f1f;
-    color: white;
     text-transform: uppercase;
     font-size: 18px;
-    padding: 14px 0px;
-    width: 260px;
+    padding: 8px 0px;
+    width: 250px;
     display: inline-block;
     letter-spacing: 0.1em;
     font-weight: 500;
@@ -92,7 +91,14 @@
 
 .discover-more a {
     color: white !important;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif !important;
+    font-weight: 700;
+    font-style: initial;
+}
+
+.discover-more:hover {
+    box-shadow: 0 14px 28px rgba(0,0,0,0.20), 0 10px 10px rgba(0,0,0,0.17);
+    background-color: #000;
 }
 
 #service .fa-stack {
