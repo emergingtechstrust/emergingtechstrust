@@ -46,6 +46,7 @@
     font-size: 20px !important;
     letter-spacing: 0.05em !important;
     margin-bottom: 20px;
+    margin-left: 50px;
 }
 
 #slider ul.next-event-list {
@@ -265,13 +266,6 @@
     text-decoration: underline !important;
 }
 
-
-
-
-
-
-
-
-
-
-
+.address-block {
+    list-style: none;
+}
