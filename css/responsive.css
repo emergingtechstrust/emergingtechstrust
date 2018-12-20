@@ -203,6 +203,10 @@ px      68    160    252    */
   #service .thumbnail {
     padding-bottom: 70px;
   }
+  .section-title p, #about #about-right p, #about ul, .post p {
+    font-size: 14px;
+  }
+
   /*--
 	call-to-action Start 
 --*/
