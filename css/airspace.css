@@ -75,7 +75,7 @@ a:active {
   font-size: 17px;
   line-height: 28px;
 }
-.post img {
+.post #interviewee img {
   width: 200px !important;
   height: 200px !important;
   padding-left: 0 !important;

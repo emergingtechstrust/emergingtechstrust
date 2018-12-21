@@ -7,7 +7,9 @@ author: Budh Ram Gurung
 ---
 
 <center>
-  <a href="https://medium.com/@Arafat." target="_blank"><img src="/img/interviews/arafat-khan.jpg" width="100px" height="100px" alt="Arafat Khan" /></a>
+  <div id="interviewee">
+    <a href="https://medium.com/@Arafat." target="_blank"><img src="/img/interviews/arafat-khan.jpg" width="100px" height="100px" alt="Arafat Khan" /></a>
+  </div>
 </center>
 
 Recently, [Satish](https://twitter.com/IndianGuru/), an ETT member, got an opportunity to interview 
