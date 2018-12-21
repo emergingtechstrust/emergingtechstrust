@@ -22,17 +22,7 @@ permalink: /blogs/
 <div class="post-area">
   <a href="{{ post.url | prepend: site.baseurl }}" class="bold">{{ post.title }}</a>
   <p class="post-date">{{ post.date | date_to_long_string }}
-    (~
-      <span class="reading-time" title="Estimated read time">
-        {% assign words = post.content | number_of_words %}
-        {% if words < 360 %}
-          1 min
-        {% else %}
-          {{ words | divided_by:180 }} mins
-        {% endif %}
-      </span>
-      Read
-    )
+    (~ {% include read-time.html content=post.content %} read)
   </p>
   <p>
     {{ post.content | strip_html | truncatewords: 50 }}    
