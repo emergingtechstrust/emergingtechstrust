@@ -17,7 +17,7 @@ Recently, [Satish](https://twitter.com/IndianGuru/), an ETT member, got an oppor
 [Arafat Khan](https://medium.com/@Arafat.) who is one of the speaker in the upcoming
 [Gophercon India 2019](https://gopherconindia.com/#speakers) conference.
 
-### About Arafat Khan
+### About Speaker
 
 Arafat Khan is a software developer fascinated by the mysteries of programming and logic.
 He loves experimenting and playing code and is particularly interested in Algorithms, Distributed Systems, and Machine Learning. He is the lead developer of Tensorflow Ruby and Dataviz for Golang.
@@ -69,7 +69,7 @@ build their own data structures and visualization options.
 Both of these were trending on Github when they came out and while they are relatively small projects
 I find them to be interesting and so I would like to share them with people and give a real world example.
 
-Satish >> <b><i>That’s cool Arafat, your projects are interesting.  So when did you start working on Go and why?</i></b>
+Satish >> <b><i>That’s cool Arafat, your projects are interesting. So when did you start working on Go and why?</i></b>
 
 <b>Arafat >></b> I really like to take interesting courses online and one of them is Distributed Systems in Golang offered by MIT that along with a few posts on Reddit, and William Kennedy’s talk on Channel are a few things that I really liked about Golang and how I got started.<br>
 Honestly, it’s been really fun in trying to understand distributed systems and
