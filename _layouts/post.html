@@ -14,7 +14,14 @@ layout: page
               <p class="italic">By
                 <span class="bold">{{ page.author }}</span> on
                 <span class="bold">{{ page.date | date: "%b %-d, %Y" }}</span>
-                (~ {% include read-time.html content=content %} read)
+                {% include read-time.html
+                           content=content
+                           bracket_start='('
+                           bracket_end=')'
+                           unit='min'
+                           approx='true'
+                           caption='read'
+                %}
               </p>
             </div>
             <hr />
