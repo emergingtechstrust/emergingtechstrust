@@ -6,11 +6,12 @@ date: 2018-12-20
 author: Budh Ram Gurung
 ---
 
-<center>
-  <div id="interviewee">
-    <a href="https://medium.com/@Arafat." target="_blank"><img src="/img/interviews/arafat-khan.jpg" width="100px" height="100px" alt="Arafat Khan" /></a>
-  </div>
-</center>
+{% include image.html
+           img="/img/interviews/arafat-khan.jpg"
+           url="https://medium.com/@Arafat."
+           title="Arafat Khan"
+           class="circular"
+           %}
 
 Recently, [Satish](https://twitter.com/IndianGuru/), an ETT member, got an opportunity to interview
 [Arafat Khan](https://medium.com/@Arafat.) who is one of the speaker in the upcoming
