@@ -146,10 +146,11 @@ px      68    160    252    344    436    528    620    712    */
   #features-contact .block ul li {
     width: 49%;
   }
-  /*---------------------------------------------
-					contact close 
------------------------------------------------*/
-  /*------------------*/
+
+  /* Blog post */
+  .post #intro .image-wrapper img.center-image {
+    width: 100%;
+  }
 }
 /*		Mobile Layout: 320px.
 		Gutters: 24px.
@@ -382,6 +383,10 @@ px      68    160    252    */
 --*/
   footer .footer-manu {
     display: none;
+  }
+  /* Blog post */
+  .post #intro .image-wrapper img.center-image {
+    width: 100%;
   }
 }
 /*		Wide Mobile Layout: 480px.

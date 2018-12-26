@@ -75,13 +75,24 @@ a:active {
   font-size: 17px;
   line-height: 28px;
 }
-.post #interviewee img {
-  width: 200px !important;
-  height: 200px !important;
+.post #intro .image-wrapper img.circular {
+  display: block !important;
+  margin: 0 auto !important;
+  width: 250px !important;
+  height: 250px !important;
   padding-left: 0 !important;
   border-radius: 100%;
   box-shadow: 0px 0px 30px #111;
+  width: 100%;
 }
+.post #intro .image-wrapper img.center-image {
+  display: block !important;
+  margin: 0 auto !important;
+  box-shadow: 0px 0px 30px #111 !important;
+  padding: 0 !important;
+  width: 60%;
+}
+
 /* Post end */
 /*--
 	Header Start
@@ -168,10 +179,6 @@ font header .navbar-default .navbar-nav li a:hover {
 #intro .block p {
   color: #7B7B7B;
   padding-top: 20px;
-}
-#intro .block img {
-  padding-left: 40px;
-  width: 100%;
 }
 #intro .section-title {
   margin-bottom: 0px;
