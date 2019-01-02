@@ -2,8 +2,8 @@
 layout: post
 title: Interview - Jyotsna Gupta
 subtitle: Speaking at Gophercon India 2019 on RESTful API Development
-date: 2019-01-02
-author: Nishant Samel
+date: 2019-01-01
+author: Satish Talim
 ---
 
 {% include image.html
@@ -13,7 +13,7 @@ author: Nishant Samel
            class="center-image"
            %}
 
-Continuing with the [Gophercon India 2019](https://gopherconindia.com/#speakers) speaker's interview, today we are publishing the interview conversation happened between [Satish](https://twitter.com/IndianGuru/) and [Jyotsna](https://jyotsna17gupta.github.io/)
+Continuing with the [Gophercon India 2019](https://gopherconindia.com/#speakers) speaker's interview, today we are publishing the interview conversation happened with [Jyotsna](https://jyotsna17gupta.github.io/).
 
 ### About Speaker
 
@@ -26,13 +26,13 @@ She is a <b><i>Coder</i></b> by profession and a <b><i>Shuttler</i></b> by passi
 
 ### Interview
 
-Satish >> <b><i>Welcome, Jyotsna and thanks for taking out time to share your thoughts.
+Me >> <b><i>Welcome, Jyotsna and thanks for taking out time to share your thoughts.
 For the benefit of the readers of this blog could you please introduce yourself and tell us what you do for a living?</i></b>
 
 <b>Jyotsna >></b> Hi, I am Jyotsna, a software developer at CoffeeBeans Consulting and working on a recommendation engine at my workplace.<br>
 Also an Open source enthusiast, I am an active contributor at Mozilla as a Mozilla Representative.
 
-Satish >> <b><i>It's so great to know that open source excites you so much.
+Me >> <b><i>It's so great to know that open source excites you so much.
 I am glad to know that your projects have been an interesting demonstration of Golang.
 Do you have any advice for a student or beginners getting into open source?</i></b>
 
@@ -43,7 +43,7 @@ I'm an Open Source mentor at `Rethink Passion`, where I help students from Tier-
 
 Be it a coder, or a designer, or an evangelist, there's always a way to contribute to Open Source.
 
-Satish >> <b><i>That's really nice Jyotsna. I am glad to see the recent rise in Open source culture in India and hopefully, if this trend goes on then we all would learn a lot from this.
+Me >> <b><i>That's really nice Jyotsna. I am glad to see the recent rise in Open source culture in India and hopefully, if this trend goes on then we all would learn a lot from this.
 Can you tell us a bit about your projects in Golang? </i></b>
 
 <b>Jyotsna >></b> Coffebeans gave me the wonderful opportunity to dive deep into Golang. I work on a domain
@@ -52,16 +52,16 @@ data points being collected and ingested. We have various predictive models to s
 currently working with media houses to deliver recommendations and improve audience engagement across the
 websites, involving cutting-edge technologies such as Go, Scala, Spark, Hadoop, Kafka, Redis and MongoDB.
 
-Satish >> <b><i>That’s interesting Jyotsna. So when did you start working on Go and why?</i></b>
+Me >> <b><i>That’s interesting Jyotsna. So when did you start working on Go and why?</i></b>
 
 <b>Jyotsna >></b> CoffeeBeans had asked me to pick either from Python/Django or Golang project. CoffeeBeans doesn’t dump any technology upon you. They are considerate about their employee’s interest and I’m fortunate enough to be part of it and have the chance to learn Golang while working upon it.
 
-Satish >> <b><i>How excited are you about GopherConIndia?</i></b>
+Me >> <b><i>How excited are you about GopherConIndia?</i></b>
 
 <b>Jyotsna >></b> This will be my first Golang talk. As I generally give talks on Open Source and Cross Browser WebExtension, I’m quite excited and nervous about Golang talk.<br>
 It is amazing to see the Gopher community evolving like other tech communities, and it would be great to interact with them.
 
-Satish >> <b><i>Do you have any other suggestions for our readers?</i></b>
+Me >> <b><i>Do you have any other suggestions for our readers?</i></b>
 
 <b>Jyotsna >></b> Follow fellow contributors, see what they are doing, find mentors who can help you out, Google everything before you nudge your mentors to help you out.<br>
 This is not rocket science. Communicate more and keep the flame of curiosity and knowledge burning within you. That’s how you learn and grow.

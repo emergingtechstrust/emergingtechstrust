@@ -3,7 +3,7 @@ layout: post
 title: Interview - Arafat Khan
 subtitle: Speaking at Gophercon India 2019 on Dataviz and Glot
 date: 2018-12-20
-author: Budh Ram Gurung
+author: Satish Talim
 ---
 
 {% include image.html
@@ -13,9 +13,7 @@ author: Budh Ram Gurung
            class="circular"
            %}
 
-Recently, [Satish](https://twitter.com/IndianGuru/), an ETT member, got an opportunity to interview
-[Arafat Khan](https://medium.com/@Arafat.) who is one of the speaker in the upcoming
-[Gophercon India 2019](https://gopherconindia.com/#speakers) conference.
+Recently, I, got an opportunity to interview [Arafat Khan](https://medium.com/@Arafat.) who is one of the speaker in the upcoming [Gophercon India 2019](https://gopherconindia.com/#speakers) conference.
 
 ### About Speaker
 
@@ -27,7 +25,7 @@ When he isn't coding in front of his laptop he is hiking, kayaking, skating and 
 
 ### Interview
 
-Satish >> <b><i>Welcome, Arafat and thanks for taking out time to share your thoughts.
+Me >> <b><i>Welcome, Arafat and thanks for taking out time to share your thoughts.
 For the benefit of the readers of this blog could you please introduce yourself and tell us what you do for a living?</i></b>
 
 <b>Arafat >></b> Hi, I am Arafat, an Undergraduate student at IIT Kharagpur.  As for my work life,
@@ -45,7 +43,7 @@ Anybody with a pc+internet can take a jab at it and make changes to any open sou
 At the end of the day "Quality code" speaks for itself and can help you get past the barriers of geography
 and formal education.
 
-Satish >> <b><i>It's so great to know that open source excites you so much.
+Me >> <b><i>It's so great to know that open source excites you so much.
 I am glad to know that your projects have been an interesting demonstration of Golang.
 Do you have any advice for a student or beginners getting into open source?</i></b>
 
@@ -56,7 +54,7 @@ Search on GitHub, web, anywhere. There are plenty of projects that you can pick 
 Find something really small that you can contribute to and then work on them.
 The key is to be open to new ideas and not be afraid of asking for help.
 
-Satish >> <b><i>That's really nice Arafat. I am glad to see the recent rise in Open source culture in India and hopefully, if this trend goes on then we all would learn a lot from this.
+Me >> <b><i>That's really nice Arafat. I am glad to see the recent rise in Open source culture in India and hopefully, if this trend goes on then we all would learn a lot from this.
 Can you tell us a bit about your projects in Golang? </i></b>
 
 <b>Arafat >></b> Yes, of course. So my talk involves two of the Golang projects that I made, the first one is Glot which is a plotting library for Golang built on top of `gnuplot`.<br>
@@ -69,7 +67,7 @@ build their own data structures and visualization options.
 Both of these were trending on Github when they came out and while they are relatively small projects
 I find them to be interesting and so I would like to share them with people and give a real world example.
 
-Satish >> <b><i>That’s cool Arafat, your projects are interesting. So when did you start working on Go and why?</i></b>
+Me >> <b><i>That’s cool Arafat, your projects are interesting. So when did you start working on Go and why?</i></b>
 
 <b>Arafat >></b> I really like to take interesting courses online and one of them is Distributed Systems in Golang offered by MIT that along with a few posts on Reddit, and William Kennedy’s talk on Channel are a few things that I really liked about Golang and how I got started.<br>
 Honestly, it’s been really fun in trying to understand distributed systems and
@@ -77,12 +75,12 @@ see the true features of Golang in action. In particular I really like Concurren
 where Go’s approach is unfamiliar and it’s tempting to dive straight in to using Go routines and channels.
 Making full use of those features is a lot of fun.
 
-Satish >> <b><i>How excited are you about GopherConIndia?</i></b>
+Me >> <b><i>How excited are you about GopherConIndia?</i></b>
 
 <b>Arafat >></b> Very much, I am so glad India has it’s very own Gophercon with so many interesting talks.
 I am really looking forward to it.
 
-Satish >> <b><i>Do you have any other suggestions for our readers?</i></b>
+Me >> <b><i>Do you have any other suggestions for our readers?</i></b>
 
 <b>Arafat >></b> Just keep at it and keep exploring. And don’t be afraid to ask questions.
 The Go community is very friendly and vibrant.
