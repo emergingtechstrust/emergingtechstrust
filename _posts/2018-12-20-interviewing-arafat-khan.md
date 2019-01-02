@@ -90,5 +90,5 @@ The Go community is very friendly and vibrant.
 ### Related links
 
 - [Introducing DataViz a data-structure visualization library for Golang](https://medium.com/@Arafat./introducing-dataviz-a-data-structure-visualization-library-for-golang-f6e60663bc9d
-)
-- [Introducing Glot the plotting library for Golang](https://medium.com/@Arafat./introducing-glot-the-plotting-library-for-golang-3133399948a1)
+){:target="_blank"}
+- [Introducing Glot the plotting library for Golang](https://medium.com/@Arafat./introducing-glot-the-plotting-library-for-golang-3133399948a1){:target="_blank"}
