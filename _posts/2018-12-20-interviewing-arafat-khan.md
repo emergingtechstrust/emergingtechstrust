@@ -3,7 +3,7 @@ layout: post
 title: Interview - Arafat Khan
 subtitle: Speaking at Gophercon India 2019 on Dataviz and Glot
 date: 2018-12-20
-author: Satish Talim
+author: Satish Manohar Talim
 ---
 
 {% include image.html
@@ -13,7 +13,7 @@ author: Satish Talim
            class="circular"
            %}
 
-Recently, I, got an opportunity to interview [Arafat Khan](https://medium.com/@Arafat.) who is one of the speaker in the upcoming [Gophercon India 2019](https://gopherconindia.com/#speakers) conference.
+Recently, I got an opportunity to interview [Arafat Khan](https://medium.com/@Arafat.) who is one of the speaker in the upcoming [Gophercon India 2019](https://gopherconindia.com/#speakers) conference.
 
 ### About Speaker
 

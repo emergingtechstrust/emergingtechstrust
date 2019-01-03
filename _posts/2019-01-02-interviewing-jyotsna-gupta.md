@@ -3,7 +3,7 @@ layout: post
 title: Interview - Jyotsna Gupta
 subtitle: Speaking at Gophercon India 2019 on RESTful API Development
 date: 2019-01-01
-author: Satish Talim
+author: Satish Manohar Talim
 ---
 
 {% include image.html
@@ -65,7 +65,6 @@ Me >> <b><i>Do you have any other suggestions for our readers?</i></b>
 
 <b>Jyotsna >></b> Follow fellow contributors, see what they are doing, find mentors who can help you out, Google everything before you nudge your mentors to help you out.<br>
 This is not rocket science. Communicate more and keep the flame of curiosity and knowledge burning within you. That’s how you learn and grow.
-
 
 ### Related links
 
