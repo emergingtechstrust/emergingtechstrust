@@ -21,7 +21,7 @@ Jyotsna Gupta is an Open Source Enthusiast, working as a Software Developer in C
 
 She has also been involved with Mozilla Community since 2015 and she volunteers to Mozilla in her free time as an <b><u>Add-on Content Reviewer & Mozilla Representative</u></b> (previously, a two-time Add-ons Featured Advisory Board Member & Judge of the worldwide contest `Firefox Quantum Extension Challenge`). She is also a <b><u>Firefox Add-ons Mentor</u></b> and has published a privacy-themed add-on `PrivateX`.
 
-She is going to speak about <b><i>RESTful API development in Go.</i></b><br>
+She is going to speak about <b><i>RESTful API development in Go</i></b>.<br>
 She is a <b><i>Coder</i></b> by profession and a <b><i>Shuttler</i></b> by passion.
 
 ### Interview

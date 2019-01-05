@@ -21,7 +21,7 @@ Mofizur Rahman is a Developer Advocate at IBM. His area of interests include <b>
 
 His favorite programming language these days is Go. He also tinkers with Node.js, Python and Java. He is also learning and teaching in the Go, Kubernetes and Hyperledger Fabric community.
 
-He is going to speak about <b><i>Go Gotchas and Dealing with them "Like a BOSS".</i></b><br>
+He is going to speak about <b><i>Go Gotchas and Dealing with them "Like a BOSS"</i></b>.<br>
 He is a self proclaimed <b><i>sticker collecting addict</i></b> and has collected several box full of stickers with no signs of stopping. He dabbles in <b><i>photography</i></b> sometimes.
 
 ### Interview
