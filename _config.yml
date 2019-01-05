@@ -15,13 +15,14 @@ keep_files:
 
 # Site settings
 title: Emerging Technology Trust(ETT)
-subtitle: "A free HTML5 agency template"
+subtitle: "A non-profit organization responsible for organizing conferences"
 url: "http://ettindia.org" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ""
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 permalink: /blogs/:title
+future: true
 
 # Build settings
 markdown: kramdown
