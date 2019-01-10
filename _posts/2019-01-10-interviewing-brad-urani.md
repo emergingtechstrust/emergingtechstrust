@@ -13,17 +13,15 @@ author: Satish Manohar Talim
            class="circular"
            %}
 
-Today I am presenting the interview conversation I had with [Brad](https://medium.com/@bradurani).
-
 ### About Speaker
 
-Brad Urani is a <b><i>coder, karaoke singer and barbecue evangelist</i></b>. He believes happiness is directly correlated with the size of your .vimrc and refuses to buy into YAGNI. When not hiking or hacking, he preaches the wonders of Rails and relational databases as Principal Engineer at `Procore` in Santa Barbara, CA.
+Brad Urani is a <b><i>coder, karaoke singer and barbecue evangelist</i></b>. He believes happiness is directly correlated with the size of your `.vimrc` and refuses to buy into `YAGNI`. When not hiking or hacking, he preaches the wonders of Rails and relational databases as Principal Engineer at `Procore` in Santa Barbara, CA.
 
 He is going to speak about <b><i>The Ultimate Ruby Developer's Command Line Toolkit</i></b>.<br>
 
 ### Interview
 
-Me >> <b><i>Welcome Brad and thanks for taking out time to share your thoughts.  
+Me >> <b><i>Welcome Brad and thanks for taking out time to share your thoughts.
 For the benefit of the readers of this blog could you please introduce yourself and tell us what you do for a living?</i></b>
 
 <b>Brad >></b> Hi Satish. I'm a web and data engineer at `Procore` in beautiful sunny Santa Barbara, California. Procore makes software for managing construction projects. Companies that build skyscrapers, shopping malls, stadiums and other buildings use our software to manage their construction operations.<br>
@@ -46,7 +44,7 @@ Me >> <b><i>That’s cool Brad, your projects are interesting. So when did you s
 
 Me >> <b><i>How excited are you about RubyConfIndia?</i></b>
 
-<b>Brad >></b> Very excited! This is my first trip to India. I heard the Indian Ruby community is full of great people, and I can wait to meet everyone. I also really like spicy food, so I think I'll enjoy Goa.
+<b>Brad >></b> Very excited! This is my first trip to India. I heard the Indian Ruby community is full of great people, and I can't wait to meet everyone. I also really like spicy food, so I think I'll gonna enjoy Goa.
 
 Me >> <b><i>Do you have any other suggestions for our readers?</i></b>
 
