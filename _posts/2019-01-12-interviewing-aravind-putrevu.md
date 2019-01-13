@@ -7,10 +7,10 @@ author: Satish Manohar Talim
 ---
 
 {% include image.html
-           img="/img/interviews/aravind-putrevu.png"
+           img="/img/interviews/aravind-putrevu.jpg"
            url="https://medium.com/@aravindputrevu"
            title="Aravind Putrevu"
-           class="circular"
+           class="center-image"
            %}
 
 ### About Speaker
